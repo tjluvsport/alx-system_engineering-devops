@@ -1,3 +1,7 @@
 #!/bin/bash
+<<<<<<< HEAD
 rmdir /tmp/my_first_directory
 ~
+=======
+rm -rf /tmp/my_first_directory
+>>>>>>> 85ed51b7c78ad45acf88db62c22fb242b9d39b9c
